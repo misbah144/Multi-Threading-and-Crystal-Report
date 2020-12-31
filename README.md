@@ -13,7 +13,7 @@ setup & features
 
 * Setting up and installing crystal report 9 on your system
 
-* setting up path for crystal reports 
+* Setting up path for crystal reports 
  (from which pdf documents to be extracted) along with data base credentials if needed 
   and target where folder where pdf files to be extracted.
 
